@@ -1,4 +1,4 @@
-# PyDM - Python Download Manager
+# PytDm - Python Download Manager
 # Fichiers à ignorer par Git
 
 # Byte-compiled / optimized / DLL files
@@ -217,7 +217,7 @@ Temporary Items
 .Trash-*
 .nfs*
 
-# Fichiers spécifiques à PyDM
+# Fichiers spécifiques à PytDm
 downloads/
 temp/
 *.part

@@ -1,9 +1,9 @@
-# PyDM - Python Download Manager
+# PytDm - Python Download Manager
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/Docteur-Parfait/pydm.svg)](https://github.com/Docteur-Parfait/pydm/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Docteur-Parfait/pydm.svg)](https://github.com/Docteur-Parfait/pydm/network)
+[![GitHub stars](https://img.shields.io/github/stars/Docteur-Parfait/PytDm.svg)](https://github.com/Docteur-Parfait/PytDm/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Docteur-Parfait/PytDm.svg)](https://github.com/Docteur-Parfait/PytDm/network)
 
 Un gestionnaire de téléchargement moderne et intuitif avec interface graphique, développé en Python avec tkinter.
 
@@ -31,7 +31,7 @@ Un gestionnaire de téléchargement moderne et intuitif avec interface graphique
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    PyDM - Python Download Manager          │
+│                    PytDm - Python Download Manager          │
 ├─────────────────────────────────────────────────────────────┤
 │ 🔗 URL du fichier                                          │
 │ ┌─────────────────────────────────────────────────────────┐ │
@@ -65,8 +65,8 @@ Un gestionnaire de téléchargement moderne et intuitif avec interface graphique
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Docteur-Parfait/pydm.git
-cd pydm
+git clone https://github.com/Docteur-Parfait/PytDm.git
+cd PytDm
 
 # Installer les dépendances
 pip install -r requirements.txt
@@ -78,7 +78,7 @@ python download.py
 ### Installation avec pip (bientôt disponible)
 
 ```bash
-pip install pydm
+pip install PytDm
 ```
 
 ## 🚀 Utilisation
@@ -111,10 +111,10 @@ python download.py
 
 ```bash
 # Dossier de téléchargement par défaut
-export PYDM_DOWNLOAD_DIR="/path/to/downloads"
+export PytDm_DOWNLOAD_DIR="/path/to/downloads"
 
 # User-Agent personnalisé
-export PYDM_USER_AGENT="MonApp/1.0"
+export PytDm_USER_AGENT="MonApp/1.0"
 ```
 
 ### Fichier de configuration
@@ -124,7 +124,7 @@ Créez un fichier `config.json` dans le répertoire de l'application :
 ```json
 {
   "default_download_folder": "C:\\Users\\Username\\Downloads",
-  "user_agent": "PyDM/1.0",
+  "user_agent": "PytDm/1.0",
   "max_retries": 3,
   "timeout": 30
 }
@@ -135,7 +135,7 @@ Créez un fichier `config.json` dans le répertoire de l'application :
 ### Structure du projet
 
 ```
-pydm/
+PytDm/
 ├── download.py          # Application principale
 ├── requirements.txt     # Dépendances Python
 ├── setup.py            # Configuration d'installation
@@ -208,7 +208,7 @@ Nous accueillons toutes les contributions ! Consultez notre [Guide de Contributi
 
 ## 🐛 Signaler un bug
 
-Si vous trouvez un bug, merci de créer une [issue](https://github.com/Docteur-Parfait/pydm/issues) avec :
+Si vous trouvez un bug, merci de créer une [issue](https://github.com/Docteur-Parfait/PytDm/issues) avec :
 
 - Description détaillée du problème
 - Étapes pour reproduire
@@ -219,7 +219,7 @@ Si vous trouvez un bug, merci de créer une [issue](https://github.com/Docteur-P
 
 Pour demander une nouvelle fonctionnalité :
 
-1. Vérifiez d'abord les [issues existantes](https://github.com/Docteur-Parfait/pydm/issues)
+1. Vérifiez d'abord les [issues existantes](https://github.com/Docteur-Parfait/PytDm/issues)
 2. Créez une nouvelle issue avec le label "enhancement"
 3. Décrivez clairement la fonctionnalité souhaitée
 
@@ -239,10 +239,10 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📊 Statistiques
 
-![GitHub stars](https://img.shields.io/github/stars/Docteur-Parfait/pydm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Docteur-Parfait/pydm?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Docteur-Parfait/pydm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Docteur-Parfait/pydm)
+![GitHub stars](https://img.shields.io/github/stars/Docteur-Parfait/PytDm?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Docteur-Parfait/PytDm?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Docteur-Parfait/PytDm)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Docteur-Parfait/PytDm)
 
 ---
 

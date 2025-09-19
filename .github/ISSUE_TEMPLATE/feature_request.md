@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for PyDM
+about: Suggest an idea for PytDm
 title: "[FEATURE] "
 labels: enhancement
 assignees: ""

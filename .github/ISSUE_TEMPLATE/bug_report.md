@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve PyDM
+about: Create a report to help us improve PytDm
 title: "[BUG] "
 labels: bug
 assignees: ""
@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 
 - OS: [e.g. Windows 10, macOS 12, Ubuntu 20.04]
 - Python version: [e.g. 3.9.7]
-- PyDM version: [e.g. 1.0.0]
+- PytDm version: [e.g. 1.0.0]
 - Browser (if applicable): [e.g. Chrome 95, Firefox 94]
 
 **Additional context**

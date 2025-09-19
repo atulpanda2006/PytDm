@@ -1,6 +1,6 @@
-# Guide de Contribution - PyDM
+# Guide de Contribution - PytDm
 
-Merci de votre intérêt à contribuer à PyDM ! Ce guide vous aidera à comprendre comment contribuer efficacement au projet.
+Merci de votre intérêt à contribuer à PytDm ! Ce guide vous aidera à comprendre comment contribuer efficacement au projet.
 
 ## 📋 Table des matières
 
@@ -47,11 +47,11 @@ Nous nous engageons à créer un environnement accueillant et inclusif pour tous
 
 ```bash
 # Fork le repository sur GitHub, puis clonez votre fork
-git clone https://github.com/VOTRE_USERNAME/pydm.git
-cd pydm
+git clone https://github.com/VOTRE_USERNAME/PytDm.git
+cd PytDm
 
 # Ajoutez le repository original comme remote
-git remote add upstream https://github.com/Docteur-Parfait/pydm.git
+git remote add upstream https://github.com/Docteur-Parfait/PytDm.git
 ```
 
 ### 2. Configuration de l'Environnement
@@ -324,7 +324,7 @@ def calculate_download_speed(downloaded: int, time_elapsed: float) -> float:
 
 ### 🐛 Correction de Bugs
 
-1. Vérifiez les [issues existantes](https://github.com/Docteur-Parfait/pydm/issues)
+1. Vérifiez les [issues existantes](https://github.com/Docteur-Parfait/PytDm/issues)
 2. Créez une issue si le bug n'existe pas
 3. Assignez-vous l'issue
 4. Créez une branche `fix/description-du-bug`
@@ -410,8 +410,8 @@ Mettez à jour le `CHANGELOG.md` pour chaque release :
 
 ## ❓ Questions ?
 
-- **Issues** : [GitHub Issues](https://github.com/Docteur-Parfait/pydm/issues)
-- **Discussions** : [GitHub Discussions](https://github.com/Docteur-Parfait/pydm/discussions)
+- **Issues** : [GitHub Issues](https://github.com/Docteur-Parfait/PytDm/issues)
+- **Discussions** : [GitHub Discussions](https://github.com/Docteur-Parfait/PytDm/discussions)
 - **Email** : docteur.parfait@example.com
 
 ## 🙏 Remerciements

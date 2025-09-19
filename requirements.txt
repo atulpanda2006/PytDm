@@ -1,4 +1,4 @@
-# PyDM - Python Download Manager
+# PytDm - Python Download Manager
 # Dépendances principales
 
 # Requêtes HTTP

@@ -1,4 +1,4 @@
-# Configuration pre-commit pour PyDM
+# Configuration pre-commit pour PytDm
 # Voir https://pre-commit.com pour plus d'informations
 
 repos:

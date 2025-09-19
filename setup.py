@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Setup script for PyDM - Python Download Manager
+Setup script for PytDm - Python Download Manager
 """
 
 from setuptools import setup, find_packages
@@ -27,18 +27,18 @@ def get_version():
     return "1.0.0"
 
 setup(
-    name="pydm",
+    name="PytDm",
     version=get_version(),
     author="Docteur-Parfait",
     author_email="docteur.parfait@example.com",
     description="Un gestionnaire de téléchargement moderne avec interface graphique",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Docteur-Parfait/pydm",
+    url="https://github.com/Docteur-Parfait/PytDm",
     project_urls={
-        "Bug Reports": "https://github.com/Docteur-Parfait/pydm/issues",
-        "Source": "https://github.com/Docteur-Parfait/pydm",
-        "Documentation": "https://github.com/Docteur-Parfait/pydm#readme",
+        "Bug Reports": "https://github.com/Docteur-Parfait/PytDm/issues",
+        "Source": "https://github.com/Docteur-Parfait/PytDm",
+        "Documentation": "https://github.com/Docteur-Parfait/PytDm#readme",
     },
     packages=find_packages(),
     py_modules=["download"],
@@ -81,10 +81,10 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "pydm=download:main",
+            "PytDm=download:main",
         ],
         "gui_scripts": [
-            "pydm-gui=download:main",
+            "PytDm-gui=download:main",
         ],
     },
     keywords=[
@@ -96,7 +96,7 @@ setup(
     platforms=["any"],
     license="MIT",
     # Métadonnées additionnelles
-    download_url="https://github.com/Docteur-Parfait/pydm/archive/v{}.tar.gz".format(get_version()),
+    download_url="https://github.com/Docteur-Parfait/PytDm/archive/v{}.tar.gz".format(get_version()),
     keywords="download manager gui tkinter python http files progress resume pause",
     # Configuration pour les tests
     test_suite="tests",
@@ -110,6 +110,6 @@ setup(
     },
     # Configuration pour les scripts
     scripts=[
-        "scripts/pydm-cli.py",
-    ] if os.path.exists("scripts/pydm-cli.py") else [],
+        "scripts/PytDm-cli.py",
+    ] if os.path.exists("scripts/PytDm-cli.py") else [],
 )

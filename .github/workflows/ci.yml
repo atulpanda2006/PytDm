@@ -149,5 +149,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./dist/
-          asset_name: pydm-dist
+          asset_name: PytDm-dist
           asset_content_type: application/zip
