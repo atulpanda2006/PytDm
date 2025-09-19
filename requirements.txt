@@ -1,0 +1,29 @@
+# PyDM - Python Download Manager
+# Dépendances principales
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Interface graphique (inclus avec Python)
+# tkinter - inclus avec Python 3.x
+
+# Gestion des chemins et fichiers
+pathlib2>=2.3.7; python_version < "3.4"
+
+# Utilitaires système
+psutil>=5.9.0
+
+# Gestion des URLs
+urllib3>=2.0.0
+
+# Validation des URLs
+validators>=0.22.0
+
+# Gestion des cookies
+requests-cache>=1.1.0
+
+# Support des proxies
+requests[socks]>=2.31.0
+
+# Gestion des erreurs HTTP
+httpx>=0.24.0

@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+PyDM - Python Download Manager
 Interface graphique de téléchargement avec tkinter
 Fonctionnalités: pause/reprendre, sélection de dossier, barre de progression
+
+Author: Docteur-Parfait
+Repository: https://github.com/Docteur-Parfait/pydm
+License: MIT
 """
 
 import tkinter as tk
@@ -30,7 +35,7 @@ class DownloadManager:
 class DownloadGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("🚀 Téléchargeur de Fichiers")
+        self.root.title("PyDM - Python Download Manager")
         self.root.geometry("600x500")
         self.root.minsize(500, 400)  # Taille minimale
         self.root.resizable(True, True)
@@ -67,7 +72,7 @@ class DownloadGUI:
         
         title_label = tk.Label(
             title_frame, 
-            text="🚀 Téléchargeur de Fichiers", 
+            text="PyDM - Python Download Manager", 
             font=('Arial', 16, 'bold'),
             bg='#f0f0f0',
             fg='#2c3e50'
