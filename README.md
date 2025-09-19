@@ -72,7 +72,7 @@ cd PytDm
 pip install -r requirements.txt
 
 # Lancer l'application
-python download.py
+python main.py
 ```
 
 ### Installation avec pip (bientôt disponible)
@@ -86,7 +86,7 @@ pip install PytDm
 ### Lancement de l'application
 
 ```bash
-python download.py
+python main.py
 ```
 
 ### Guide d'utilisation
@@ -136,14 +136,14 @@ Créez un fichier `config.json` dans le répertoire de l'application :
 
 ```
 PytDm/
-├── download.py          # Application principale
+├── main.py          # Application principale
 ├── requirements.txt     # Dépendances Python
 ├── setup.py            # Configuration d'installation
 ├── README.md           # Documentation principale
 ├── CONTRIBUTING.md     # Guide de contribution
 ├── LICENSE             # Licence MIT
 └── tests/              # Tests unitaires (à venir)
-    └── test_download.py
+    └── test_main.py
 ```
 
 ### Classes principales

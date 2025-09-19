@@ -133,7 +133,7 @@ python -m pytest
 python -m pytest --cov=download --cov-report=html
 
 # Tests spécifiques
-python -m pytest tests/test_download.py::test_download_function
+python -m pytest tests/test_main.py::test_download_function
 ```
 
 ### 3. Commit
@@ -239,7 +239,7 @@ def download_file(url: str, destination: str) -> bool:
 ```
 tests/
 ├── __init__.py
-├── test_download.py      # Tests de téléchargement
+├── test_main.py      # Tests de téléchargement
 ├── test_gui.py          # Tests d'interface
 ├── test_utils.py        # Tests utilitaires
 └── fixtures/            # Données de test

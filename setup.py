@@ -19,7 +19,7 @@ def read_requirements():
 
 # Lire la version depuis le fichier
 def get_version():
-    version_file = os.path.join("download.py")
+    version_file = os.path.join("main.py")
     with open(version_file, "r", encoding="utf-8") as f:
         for line in f:
             if line.startswith("__version__"):
